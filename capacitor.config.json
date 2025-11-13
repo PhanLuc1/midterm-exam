@@ -1,0 +1,11 @@
+{
+  "appId": "com.studynotes.app",
+  "appName": "Study Notes",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "Storage": {
+      "group": "StudyNotesGroup"
+    }
+  }
+}
