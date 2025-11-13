@@ -1,5 +1,7 @@
 # 📚 Ứng dụng Ghi Chú Học Tập (Study Notes) midterm exam
 
+# Đề 4 Số thứ tự 32 Phan Tá Tấn Lực
+
 Ứng dụng React Native với Expo Router và AsyncStorage để quản lý ghi chú học tập theo từng môn học.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
